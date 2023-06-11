@@ -31,4 +31,4 @@ ASH1 принадлежит к TrxG белкам, выполняет функц�
 
 ### Heatmap:
 
-![heatmap](https://github.com/whiteroomlz/hse23-project/blob/7e90e7d849ae53eba5601afc686d6ad85b2b6ed8/raw/heamap.png)
+![heatmap](https://github.com/whiteroomlz/hse23-project/blob/b265fdd129e0b96a223d54e27c87824e2cd8a927/raw/heatmap.png)
