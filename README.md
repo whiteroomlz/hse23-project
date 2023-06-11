@@ -14,9 +14,22 @@ ASH1 принадлежит к TrxG белкам, выполняет функц�
 
 ![structure](https://github.com/whiteroomlz/hse23-project/blob/7e90e7d849ae53eba5601afc686d6ad85b2b6ed8/raw/structure.png)
 
-## Выравнивание
+## Выравнивания
+### H2A:
 
-Потерял картинку. Постараюсь успеть загрузить новую до дедлайна.
+![h2a](https://github.com/whiteroomlz/hse23-project/blob/ffdc601aba2c30af29ef4b6e6ac8bee04d64e0dc/raw/H2A.png)
+
+### H2B:
+
+![h2b](https://github.com/whiteroomlz/hse23-project/blob/ffdc601aba2c30af29ef4b6e6ac8bee04d64e0dc/raw/H2B.png)
+
+### H3:
+
+![h3](https://github.com/whiteroomlz/hse23-project/blob/ffdc601aba2c30af29ef4b6e6ac8bee04d64e0dc/raw/H3.png)
+
+### H4:
+
+![h4](https://github.com/whiteroomlz/hse23-project/blob/ffdc601aba2c30af29ef4b6e6ac8bee04d64e0dc/raw/H4.png)
 
 ## E-values
 
