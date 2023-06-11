@@ -10,7 +10,6 @@ ASH1 принадлежит к TrxG белкам, выполняет функц�
 
 ![expression](https://github.com/whiteroomlz/hse23-project/blob/7e90e7d849ae53eba5601afc686d6ad85b2b6ed8/raw/gene-exp-plot.png)
 
-
 Доменная структура:
 
 ![structure](https://github.com/whiteroomlz/hse23-project/blob/7e90e7d849ae53eba5601afc686d6ad85b2b6ed8/raw/structure.png)
@@ -19,7 +18,9 @@ ASH1 принадлежит к TrxG белкам, выполняет функц�
 
 Потерял картинку. Постараюсь успеть загрузить новую до дедлайна.
 
-## E-values:
+## E-values
+
+### DataFRame:
 
 |**Gene\Organism**|**Human**|**Mouse**|**Zebrafish**|**C.elegans**|**Drosophila**|**Ciliate**|**Yeast**|**Methanocaldococcus**|**Thermococcus**|**Tuberculosis**|**E.coli**|
 |-|-|-|-|-|-|-|-|-|-|-|-|
@@ -32,3 +33,7 @@ ASH1 принадлежит к TrxG белкам, выполняет функц�
 ### Heatmap:
 
 ![heatmap](https://github.com/whiteroomlz/hse23-project/blob/0731db32a8258e950bc92c7e5bcd570d04b5b429/raw/heatmap.png)
+
+## Вывод
+
+Судя по тепловой карте, выбранный мною белок появился в эволюционной цепочке с беспозвоночными организмами (фруктовая мушка Дрозофила).
