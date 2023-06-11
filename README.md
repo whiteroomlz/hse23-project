@@ -4,7 +4,7 @@ Colab: https://colab.research.google.com/drive/1Y9-QEDbaBQZwuf06Sp3zRZSiOz5M3Fs0
 
 ## Описание гена
 
-ASH1 принадлежит к TrxG белкам, выполняет функции метилирования гистонов (histone modification write) H3 (K4, K9) и H4 (K20): https://doi.org/10.1016/j.gene.2007.04.027
+ASH1 принадлежит к TrxG белкам, выполняет функции метилирования гистонов (histone modification write) H3 (K4, K9) и H4 (K20): https://doi.org/10.1016/j.gene.2007.04.027.
 
 Экспрессия:
 
@@ -20,7 +20,7 @@ ASH1 принадлежит к TrxG белкам, выполняет функц�
 
 ## E-values
 
-### DataFRame:
+### DataFrame:
 
 |**Gene\Organism**|**Human**|**Mouse**|**Zebrafish**|**C.elegans**|**Drosophila**|**Ciliate**|**Yeast**|**Methanocaldococcus**|**Thermococcus**|**Tuberculosis**|**E.coli**|
 |-|-|-|-|-|-|-|-|-|-|-|-|
