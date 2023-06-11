@@ -21,7 +21,7 @@ ASH1 принадлежит к TrxG белкам, выполняет функц�
 
 ## E-values:
 
-|**Organism \ Gene**|**Human**|**Mouse**|**Zebrafish**|**C.elegans**|**Drosophila**|**Ciliate**|**Yeast**|**Methanocaldococcus**|**Thermococcus**|**Tuberculosis**|**E.coli**|
+|**Gene\Organism**|**Human**|**Mouse**|**Zebrafish**|**C.elegans**|**Drosophila**|**Ciliate**|**Yeast**|**Methanocaldococcus**|**Thermococcus**|**Tuberculosis**|**E.coli**|
 |-|-|-|-|-|-|-|-|-|-|-|-|
 |**H2A**|1.000000e-300|1.000000e-300|1.000000e-300|2.740000e-45|8.780000e-44|2.740000e-46|7.470000e-46|1.800|8.510000e-09|5.970000e-12|2.050000e-25|
 |**H2B**|3.830000e-88|6.750000e-87|3.030000e-81|6.310000e-67|2.410000e-60|3.080000e-51|5.770000e-60|1.000|8.500000e-01|1.700000e+00|1.100000e+00|
